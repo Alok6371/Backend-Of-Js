@@ -13,8 +13,14 @@
 
 ![image of function](logo.png)
 
+# 03 Model
+        Here i learn how to make the model in the project  using the Schema
+        Mongoose: 
+            ->Is a Elegant MongoDB object modeling for Node.js
+            ->Used for writing MongoDB validation, casting and business logic boilerplate is a drag
+        *Stackblitz app used for editing the model also it is a work lia IDE
 
-# 03 Backend project 
-### Here is the Model [Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+# 04 Backend project 
+### Here is the  [ Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
 
