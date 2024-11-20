@@ -23,4 +23,6 @@
 # 04 Backend project 
 ### Here is the  [ Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
+        When env/envirment change tehn nodemon cant reload the app
+
 
